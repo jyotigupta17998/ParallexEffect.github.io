@@ -1,0 +1,73 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.parallaxone {
+    width: 100%;
+    height: 600px;
+    background-image: url(img/one.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parallaxone h2 {
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 200px;
+    height: 55px;
+    padding: 5px;
+    background-color: darkslategrey;
+    color: white;
+    text-align: center;
+}
+
+.parallaxtwo {
+    width: 100%;
+    height: 600px;
+    background-image: url(img/two.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parallaxtwo h2 {
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 200px;
+    height: 55px;
+    padding: 5px;
+    background-color: darkslategrey;
+    color: white;
+    text-align: center;
+}
+
+.parallaxthree {
+    width: 100%;
+    height: 600px;
+    background-image: url(img/three.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parallaxthree h2 {
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 200px;
+    height: 55px;
+    padding: 5px;
+    background-color: darkslategrey;
+    color: white;
+    text-align: center;
+}
+
+.same {
+    padding: 50px;
+    text-align: center;
+    height: 100%;
+    background-color: rgb(27, 24, 24);
+    color: white;
+    font-size: 20px;
+}
